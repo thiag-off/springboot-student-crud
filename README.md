@@ -19,4 +19,4 @@ Student - Modelo POJO responsável que além encapsular os dados de um estudante
 Através desse projeto fui apresentado ao conceito de injeção de dependência que se mostrou muito útil no decorrer do projeto, útilizei o Postman para efetuar as Requests HTTP e usei PostgreSQL como banco de dados.
 
 
-             ![image](https://user-images.githubusercontent.com/87951363/206018286-ca4fae05-7180-4385-8ea9-c6e9aa9f71ff.png)
+   ![image](https://user-images.githubusercontent.com/87951363/206018286-ca4fae05-7180-4385-8ea9-c6e9aa9f71ff.png)
